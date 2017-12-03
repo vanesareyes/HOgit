@@ -31,6 +31,8 @@ Editamos el archivo de README y hacemos un nuevo commit
 ```
 vi README.md
 .........
+primera edicion
+
 git add README.md
 git commit
 ```
